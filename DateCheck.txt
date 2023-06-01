@@ -1,0 +1,2 @@
+April 20, 2023
+Kali 2023.2 - 30th May, 2023 - The second 2023 Kali Rolling release. Kernel 6.1.0, Xfce 4.18.2.
