@@ -1,6 +1,4 @@
 # Changelog Notifier Project V1
-Here’s a corrected and improved version of the sentence:
-
 With this project, you can receive email notifications about changelogs for your favorite tools. You can add any tool you want to receive updates for via email whenever it changes.
 
 ## Installation
