@@ -1,0 +1,12 @@
+{
+  "smtp": {
+    "server": "",
+    "password": "",
+    "from": ""
+  },
+  "database": {
+    "name": "",
+    "user": "",
+    "password": ""
+  }
+}
