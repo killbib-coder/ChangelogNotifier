@@ -1,0 +1,7 @@
+# Ignore all files and directories starting with a dot (.)
+.*
+!.gitignore  # Keep the .gitignore file in the repository
+
+# Ignore all files and directories starting with double underscores (__)
+__*
+
